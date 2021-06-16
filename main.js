@@ -3,7 +3,7 @@ function slideDown() {
  // Votre code ici
  var nbar = document.getElementById('navbar');
  var winScroll = window.scrollY;
-//  console.log(intElemScrollTop);
+
 console.log(winScroll);
 
 if (winScroll > 100 ) {
